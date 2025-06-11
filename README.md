@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [College Management System](https://github.com/CodeWizAbhi/Collge-Management-Desktop-Application.git)
 
-- 👨‍💻 All of my projects are available at [Github and Linkedin](Github and Linkedin)
+- 👨‍💻 All of my projects are available at Github and Linkedin
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
